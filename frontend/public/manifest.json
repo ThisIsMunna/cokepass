@@ -1,0 +1,13 @@
+{
+  "name": "COKEPASS",
+  "description": "Password Manager",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "cokePass"
+  },
+  "icons": {
+    "128": "logo.png"
+  }
+}
